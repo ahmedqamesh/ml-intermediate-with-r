@@ -10,11 +10,7 @@ Welcome to the **ML for Intermediate** repository! This repository contains lect
 ml-for-intermediate-with-r/
 ├── assets/        # Images, diagrams, and other media used in lectures/projects
 ├── data/          # Datasets for exercises and projects
-├── lecture_1/     # Notebooks and materials for Lecture 1
-├── lecture_2/     # Notebooks and materials for Lecture 2
-├── lecture-3/     # Notebooks and materials for Lecture 3
-├── lecture-4/     # Notebooks and materials for Lecture 4
-├── main_lib/      # Helper functions, scripts, and reusable libraries
+├── excercises/    # Hands-on excercises
 ├── projects/      # Hands-on project notebooks
 ├── output/        # Generated plots, model results, and outputs
 ├── requirements.txt  # Python dependencies
@@ -23,11 +19,10 @@ ml-for-intermediate-with-r/
 ## Pre-requisites
 
 Make sure you have **Python 3.x**, **Jupyter Notebook**, and a virtual environment set up.  
-
 ```bash
 # Activate the environment
 source installations/python_envs/ml_env/bin/activate
-
+```
 ### Contributing and Contact Information:
 We welcome contributions from the community please contact : `ahmed.qamesh@gmail.com` .
 
